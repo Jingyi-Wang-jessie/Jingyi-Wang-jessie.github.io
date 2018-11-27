@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition.',
   'example3':
-      'I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day.'      
+      'HAMLET, Prince of Denmark. CLAUDIUS, King of Denmark, Hamlet’s uncle.'      
 };
 
 function status(statusText) {
