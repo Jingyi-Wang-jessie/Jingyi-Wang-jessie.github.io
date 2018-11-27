@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The real evils, indeed, of Emma's situation were the power of having rather too much her own way.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'I have heard The cock, that is the trumpet to the morn, Doth with his lofty and shrill-sounding throat Awake the god of day.'      
 };
 
 function status(statusText) {
