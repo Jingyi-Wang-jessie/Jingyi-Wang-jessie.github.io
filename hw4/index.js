@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition.',
   'example3':
-      'HAMLET, Prince of Denmark. CLAUDIUS, King of Denmark, Hamlet’s uncle.'      
+      'Syme took the cigar, clipped the end off with a cigar-cutter out of his waistcoat pocket, put it in his mouth, lit it slowly, and let out a long cloud of smoke.'      
 };
 
 function status(statusText) {
